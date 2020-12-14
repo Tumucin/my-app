@@ -25,4 +25,4 @@ function BasicTextFields() {
   );
 }
 
-ReactDOM.render(<BasicTextFields />, document.getElementById("App"));
+ReactDOM.render(<BasicTextFields />, document.getElementById("app"));
